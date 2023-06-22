@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers  - OSS Fellows
 
 - Class Date: June 22, 2023
 - Facilitator: @ello21
